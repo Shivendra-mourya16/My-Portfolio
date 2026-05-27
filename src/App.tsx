@@ -20,19 +20,13 @@ export default function App() {
       liveLink: '#',
       githubLink: 'https://github.com/Shivendra-mourya16/login',
     },
+    
     {
-      title: 'Student Management System',
-      description: 'A web application for managing student records and grades',
-      tech: ['Java', 'SQL', 'HTML/CSS'],
-      liveLink: '#',
-      githubLink: 'https://github.com/Shivendra-mourya16/login',
-    },
-    {
-      title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce solution with cart and payment integration',
+      title: 'Dairy pro',
+      description: 'A full-stack Saas base Agri - solution with milk collection , cattle market, and many more features and payment integration',
       tech: ['React', 'JavaScript', 'SQL'],
-      liveLink: '#',
-      githubLink: 'https://github.com/Shivendra-mourya16/login',
+      liveLink: 'https://dairy-pro-connect.vercel.app/',
+      githubLink: 'https://github.com/Shivendra-mourya16/Dairy--pro-',
     },
   ];
 
